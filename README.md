@@ -8,3 +8,5 @@ git add fileName : to add file to staging area before commiting
    check status again: git status
 git commit -m "comment about what you changed"
 git push --all 
+git log
+git diff
