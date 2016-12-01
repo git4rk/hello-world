@@ -7,4 +7,4 @@ git status
 git add fileName : to add file to staging area before commiting
    check status again: git status
 git commit -m "comment about what you changed"
-git push -m "comment to commit to remote repo"
+git push --all 
