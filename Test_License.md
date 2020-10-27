@@ -15,4 +15,4 @@
 
 ### Option 2
 - Search for the Product you are installing to view the license: https://www-03.ibm.com/software/sla/sladb.nsf/search/
-  - Example: search for `WebSphere Application Server V9.0.5.5`
+  - Example: `WebSphere Application Server V9.0.5.5`, `Liberty 20.0.0.9`
