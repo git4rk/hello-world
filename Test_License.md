@@ -2,6 +2,27 @@
 
 *[Based on [RedHat Marketplace Terms](https://marketplace.redhat.com/en-us/commerce/terms?offeringId=13e122ce06ac87807c6d2745fd461fe4)]*
 
+
+
+
+- Please view the license terms related to the product that you are about to install:
+  - WAS.Base
+    - [9.0.5.5](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
+    - [9.0.5.4](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/CDCDA0B8E2DFCE1C852585850014C6F7?OpenDocument)
+  - Liberty.Base
+    - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
+    - [20.0.0.6](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/CDCDA0B8E2DFCE1C852585850014C6F7?OpenDocument)
+  - WAS.Cell
+    - [9.0.5.5](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/3D95A7D02B4857DE852585D8005CE973?OpenDocument)  
+  - Liberty.Collective
+    - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/3D95A7D02B4857DE852585D8005CE973?OpenDocument)
+
+- This Program is also governed by the following base terms:
+  - [International Program License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/sla/bla/)
+  - [Passport Advantage Express Agreement](https://www.ibm.com/software/passportadvantage/pae_agreements.html)
+  
+  
+  
 ### Option 1
 - Please view the license terms related to the product that you are about to install:
   - [WebSphere Application Server Base 9.0.5.5 or Liberty Base 20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
