@@ -20,6 +20,8 @@
   - Liberty.Collective
     - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/3D95A7D02B4857DE852585D8005CE973?OpenDocument)
 
+- - - - - -
+
 |WAS.Base|Liberty.Base|WAS.Cell|Liberty.Collective|
 |-|-|-|-|
 |[9.0.5.5](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)|[20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)|[9.0.5.5](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/3D95A7D02B4857DE852585D8005CE973?OpenDocument) |[20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/3D95A7D02B4857DE852585D8005CE973?OpenDocument)
