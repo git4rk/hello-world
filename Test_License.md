@@ -30,7 +30,6 @@
     
 - This Program is also governed by the following base terms:
   - [International Program License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/sla/bla/)
-  - [Passport Advantage Express Agreement](https://www.ibm.com/software/passportadvantage/pae_agreements.html)
   
   
   
