@@ -5,6 +5,7 @@
   - WAS.Cell: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
   - Liberty.Base: Same as `WebSphere Application Server Base` but the version numbers do not match. How to map?
     - https://www.ibm.com/support/pages/recommended-updates-websphere-application-server
+    - https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(Liberty)
   - Liberty.Collective: Same as `WebSphere Application Server Network Deployment` but the version numbers do not match
 
 
