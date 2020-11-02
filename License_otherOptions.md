@@ -1,4 +1,13 @@
   
+### Option 1: Point to product license search pages
+- Please view the license terms related to the product that you are about to install:
+  - WAS.Base: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
+  - WAS.Cell: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
+  - Liberty.Base: Same as `WebSphere Application Server Base` but the version numbers do not match. How to map?
+    - https://www.ibm.com/support/pages/recommended-updates-websphere-application-server
+  - Liberty.Collective: Same as `WebSphere Application Server Network Deployment` but the version numbers do not match
+
+
 ### Option 2: List the latest version
 - Please view the license terms related to the product that you are about to install:
   - [WebSphere Application Server Base 9.0.5.5 or Liberty Base 20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
@@ -10,6 +19,10 @@
   - [International Program License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/sla/bla/)
   - [Passport Advantage Express Agreement](https://www.ibm.com/software/passportadvantage/pae_agreements.html)
 
-### Option 3: Point to LI search page
+### Option 3: List individual versions
+- https://github.com/git4rk/hello-world/blob/master/Test_License_allVersions.md
+
+### Option 4: Point to LI search page
 - Search for the Product you are installing to view the license: https://www-03.ibm.com/software/sla/sladb.nsf/search/
   - Example: `WebSphere Application Server V9.0.5.5`, `Liberty 20.0.0.9`
+
