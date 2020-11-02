@@ -31,5 +31,6 @@
 |[8.5.5.18](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/1BFA067D857ACEF8852585F1000CC10C?OpenDocument)|||
     
 - This Program is also governed by the following base terms:
+  - [IBM Installation Manager License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/lilookup/FFFC5B7C3E14C7D6852584BD004AC092?OpenDocument)
   - [International Program License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/sla/bla/)
  
