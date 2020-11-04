@@ -3,7 +3,8 @@
 - Please view the license terms related to the product version that you are about to install:
   - **WAS.Base** or **Liberty.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
   - **WAS.Cell** or **Liberty.Collective**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))  
-  **Notes:**
+
+**Notes:**
   - Liberty.Base  uses `WebSphere Application Server Base` license
   - Liberty.Collective uses `WebSphere Application Server Network Deployment` license
   - See the [version mapping](https://readme) for **Liberty.Base**  or **Liberty.Collective**
