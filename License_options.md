@@ -1,12 +1,20 @@
   
-### Option 1: Point to product license page for all releases
+### Option 1: Point to product license page for WAS, version specific list for Liberty
 - Please view the license terms related to the product version that you are about to install:
   - **WAS.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
-  - **Liberty.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
-    - *Question: Liberty.Base uses `WebSphere Application Server Base` license but the version numbers do not match. How to map?*
   - **WAS.Cell**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
-  - **Liberty.Collective**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
-    - *Question: Liberty.Collective uses `WebSphere Application Server Base` license but the version numbers do not match. How to map?*
+  - **Liberty.Base**  
+    Note: Liberty uses WebSphere Application Server Base license
+    - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
+    - [20.0.0.8](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/CDCDA0B8E2DFCE1C852585850014C6F7?OpenDocument)
+    - [20.0.0.7](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/CDCDA0B8E2DFCE1C852585850014C6F7?OpenDocument)
+    - . . .
+  - **Liberty.Collective**  
+      Note: Liberty uses WebSphere Application Server Network Deployment license
+    - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/3D95A7D02B4857DE852585D8005CE973?OpenDocument)  
+    - [20.0.0.8](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/1BFA067D857ACEF8852585F1000CC10C?OpenDocument)
+    - [20.0.0.7](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/1BFA067D857ACEF8852585F1000CC10C?OpenDocument)
+    - . . .
 
 - This Program is also governed by the following base terms:
   - [International Program License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/sla/bla/)
