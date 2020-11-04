@@ -9,6 +9,7 @@ Please view the license terms related to the product version that you are about 
   - See the [Liberty version mapping](#liberty-version-mapping)
   
 ### Liberty version mapping
-- 20.0.0.10 -  -> 9.0.5.5
+- 20.0.0.10 -> 9.0.5.5
+- 20.0.0.9 -> 9.0.5.5
 - 20.0.0.6 -> 9.0.5.4
 - . . . 
