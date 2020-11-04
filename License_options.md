@@ -11,7 +11,7 @@
   
   - - - - 
   
-    Note: Liberty base uses `WebSphere Application Server Base` license
+  Note: Liberty base uses `WebSphere Application Server Base` license
     - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
     - [20.0.0.8](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/CDCDA0B8E2DFCE1C852585850014C6F7?OpenDocument)
     - [20.0.0.7](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/CDCDA0B8E2DFCE1C852585850014C6F7?OpenDocument)
