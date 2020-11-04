@@ -2,9 +2,9 @@
 ### Option 1: Point to product license search pages
 - Please view the license terms related to the product version that you are about to install:
   - **WAS.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
-  - **WAS.Cell**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
   - **Liberty.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
     - *Question: Liberty.Base uses `WebSphere Application Server Base` license but the version numbers do not match. How to map?*
+  - **WAS.Cell**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
   - **Liberty.Collective**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))
     - *Question: Liberty.Collective uses `WebSphere Application Server Base` license but the version numbers do not match. How to map?*
 
