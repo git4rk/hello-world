@@ -1,5 +1,5 @@
   
-### Option 1: Point to product license search pages
+### Option 1: Point to product license page for all releases
 - Please view the license terms related to the product version that you are about to install:
   - **WAS.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
   - **Liberty.Base**: [WebSphere Application Server Base](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-J08))
@@ -28,7 +28,7 @@
   - [International Program License Agreement](https://www-03.ibm.com/software/sla/sladb.nsf/sla/bla/)
 
 - - - - - - - 
-### Option 4: Point to LI search page
+### ~Option 4: Point to LI search page~
 - Search for the Product you are installing to view the license: https://www-03.ibm.com/software/sla/sladb.nsf/search/
   - Example: `WebSphere Application Server V9.0.5.5`, `Liberty 20.0.0.9`
 
