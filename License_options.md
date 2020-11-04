@@ -5,11 +5,18 @@
   - **WAS.Cell** or **Liberty.Collective**: [WebSphere Application Server Network Deployment](https://www-03.ibm.com/software/sla/sladb.nsf/searchlis/?searchview&searchorder=4&searchmax=0&query=(5724-H88))  
 
 **Notes:**
-  - Liberty.Base  uses `WebSphere Application Server Base` license
+  - Liberty.Base uses `WebSphere Application Server Base` license
   - Liberty.Collective uses `WebSphere Application Server Network Deployment` license
   - See the [version mapping](https://readme) for **Liberty.Base**  or **Liberty.Collective**
   
   - - - - 
+  
+  Mapping:
+  20.0.0.9 -> 9.0.5.5
+  20.0.0.6 -> 9.0.5.4
+  . . . 
+  
+  -- - - - 
   
   Note: Liberty base uses `WebSphere Application Server Base` license
     - [20.0.0.9](https://www-03.ibm.com/software/sla/sladb.nsf/displaylis/71EAEEBBE696D8E6852585D8005CF4D9?OpenDocument)
